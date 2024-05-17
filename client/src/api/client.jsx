@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 export default axios.create({
-    baseURL:"https://webapp-eon7ya4ena-uc.a.run.app"
+    baseURL:"http://127.0.0.1:5000/"
 })
 
 // https://tours-travel-production.up.railway.app
